@@ -46,6 +46,6 @@
         "repository": "eousphoros/android_vendor_samsung_klimtwifi",
         "target_path": "vendor/samsung/klimtwifi",
         "revision": "master"
-    },         
+    }         
 ]
 
