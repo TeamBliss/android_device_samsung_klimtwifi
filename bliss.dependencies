@@ -19,8 +19,8 @@
     },
     {
         "remote": "github",
-        "repository": "eousphoros/android_kernel_samsung_slsi_exynos5420",
-        "target_path": "kernel/samsung_slsi/exynos5420",
+        "repository": "eousphoros/android_kernel_samsung_exynos5420",
+        "target_path": "kernel/samsung/exynos5420",
         "revision": "master"
     },
     {
