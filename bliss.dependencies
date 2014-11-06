@@ -32,11 +32,11 @@
     {
         "remote": "github",
         "repository": "eousphoros/android_kernel_samsung_slsi_exynos5420",
-        "target_path": "kernel/samsung/exynos5420",
+        "target_path": "kernel/samsung_slsi/exynos5420",
         "revision": "master"
     },
     {
-        "remote": "cm",
+        "remote": "github",
         "repository": "eousphoros/android_hardware_samsung_slsi_exynos5420",
         "target_path": "hardware/samsung_slsi/exynos5420",
         "revision": "cm-11.0"
